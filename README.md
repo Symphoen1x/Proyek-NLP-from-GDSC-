@@ -1,4 +1,4 @@
-# Proyek_NLP_from_GDSC_by Isa Aulia Almadani
+# Proyek_NLP_from_IDCamp_by Isa Aulia Almadani
 
 ## Project Overview: Sentiment Analysis of Global Tweets from Twitter Dataset
 ### Tujuan Proyek
